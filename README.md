@@ -24,5 +24,5 @@ O objetivo principal foi praticar **HTML e CSS** puros, criando um layout limpo 
 - [**Google Fonts**](https://fonts.google.com/) - Tipografia personalizada
 - [**GitHub Pages**](https://docs.github.com/pt/pages) - Hospedagem do projeto
 
-### 🚀:Demonstração 
+### 🚀Demonstração 
 Acesse o projeto [aqui](https://glaub3rdev.github.io/artigo-responsivo/)
