@@ -26,3 +26,4 @@ O objetivo principal foi praticar **HTML e CSS** puros, criando um layout limpo 
 
 ### 🚀Demonstração 
 Acesse o projeto [aqui](https://glaub3rdev.github.io/artigo-responsivo/)
+---
